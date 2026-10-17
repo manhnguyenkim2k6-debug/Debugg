@@ -1,0 +1,7 @@
+E:\laptrinhtrucquan\baitap\Daysonguyen\bin\Debug\Daysonguyen.exe.config
+E:\laptrinhtrucquan\baitap\Daysonguyen\bin\Debug\Daysonguyen.exe
+E:\laptrinhtrucquan\baitap\Daysonguyen\bin\Debug\Daysonguyen.pdb
+E:\laptrinhtrucquan\baitap\Daysonguyen\obj\Debug\Daysonguyen.csproj.AssemblyReference.cache
+E:\laptrinhtrucquan\baitap\Daysonguyen\obj\Debug\Daysonguyen.csproj.CoreCompileInputs.cache
+E:\laptrinhtrucquan\baitap\Daysonguyen\obj\Debug\Daysonguyen.exe
+E:\laptrinhtrucquan\baitap\Daysonguyen\obj\Debug\Daysonguyen.pdb
